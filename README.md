@@ -6,3 +6,4 @@ printf("hello wld");
 printf("管理修改");
 create a new branch
 Creating a new branch is quick and simple.
+add merge
